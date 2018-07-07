@@ -12,7 +12,7 @@
 A Todo List thats linked to a database. 
 
 
-![alt tag](https://i.imgur.com/V9s70R4.png)
+![alt tag](https://to-do-list.png)
 
 ## How It's Made:
 
@@ -21,16 +21,14 @@ A Todo List thats linked to a database.
 
 ## Optimizations
 
-When time permitting, I would like to add CSS and practice my UX design to make a more appealing/functional app. 
+When time permitting, I would like to add CSS and practice my UX design to make a more appealing and user log-in functional app. 
 
 ## Lessons Learned:
 - Creating a database
 - How to use EJS templates
+- using the right commands for the command-line
 
 ## Examples:
 Other examples from my portfolio:
 
-**BTC Price Prediction:** https://github.com/vhparadajr/Express_BTC_app
-
-**Favorite Song:** https://github.com/vhparadajr/Express_Fav_Song
 
