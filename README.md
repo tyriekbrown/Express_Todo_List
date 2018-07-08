@@ -12,7 +12,7 @@
 A Todo List thats linked to a database. 
 
 
-![alt tag](https://to-do-list.png)
+![alt tag](https://to-do-list.png).
 
 ## How It's Made:
 
